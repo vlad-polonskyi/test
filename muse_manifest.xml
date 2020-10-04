@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="infopolus.com" resolutions="1x" timestamp="1601454159865">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="infopolus.com" resolutions="1x" timestamp="1601807817708">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_______-a.css" crc="3813939258" ref="index"/>
-    <file name="index.css" crc="3762104910" ref="index"/>
+    <file name="master_______-a.css" crc="151298416" ref="index"/>
+    <file name="index.css" crc="277549070" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="fa-solid-900.woff" crc="4161473501"/>
@@ -140,5 +140,5 @@
     <file name="widget_aro_right-u2047-r.png" crc="3824665169" ref="index"/>
     <file name="widget_aro_right-u2047-m.png" crc="130454342" ref="index"/>
   </folder>
-  <file name="index.html" crc="3842434200" seo="true" mt="1601452941781" redirect="true"/>
+  <file name="index.html" crc="95348205" seo="true" mt="1601807728969" redirect="true"/>
 </manifest>
