@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="infopolus.com" resolutions="1x" timestamp="1601807817708">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="infopolus.com" resolutions="1x" timestamp="1601810657795">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_______-a.css" crc="151298416" ref="index"/>
-    <file name="index.css" crc="277549070" ref="index"/>
+    <file name="index.css" crc="224553788" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="fa-solid-900.woff" crc="4161473501"/>
@@ -20,9 +20,6 @@
     <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
     <file name="jquery.watch.js" crc="522499760" ref="index"/>
     <file name="webpro.js" crc="3856315280" ref="index"/>
-    <file name="musewpslideshow.js" crc="244150766" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="3877667098" ref="index"/>
-    <file name="touchswipe.js" crc="3888935200" ref="index"/>
     <file name="form_check.php" crc="4108222811" ref="index"/>
     <file name="form_throttle.php" crc="503802655" ref="index"/>
     <file name="form_process.php" crc="260214869" ref="index"/>
@@ -49,96 +46,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="service (1)-u744-fr.png" crc="4131564801" ref="index"/>
-    <file name="team (1)-crop-u271400.jpg" crc="484334784" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="team (2).jpg" crc="515574205" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="team (3)-crop-u271408.jpg" crc="441254711" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="team (4)-crop-u271411.jpg" crc="275014200" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="home (9).jpg" crc="3930792622" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="client (1)-crop-u274981.jpg" crc="246711103" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="client (1).jpg" crc="4084892000" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="client (2).jpg" crc="4214434722" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="java.jpg" crc="3763812683" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="spring.jpg" crc="3835203347" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="jboss.jpg" crc="3828188371" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="apache.jpg" crc="15895072" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="postgre.jpg" crc="28576501" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="mysql.jpg" crc="3789646416" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="hibernate.jpg" crc="4013565036" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="oracle.jpg" crc="186445698" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="css3.jpg" crc="4190822927" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="javascript.jpg" crc="180397938" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="html5.jpg" crc="4076574582" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="php.jpg" crc="3789921625" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="jsf.jpg" crc="3856727224" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="jquery.jpg" crc="10840741" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="struts.jpg" crc="3987416781" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="eclipse.jpg" crc="316576107" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="wordpress-logo.jpg" crc="4187451436" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="joomla_logo.jpg" crc="448405813" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="magento-logo.jpg" crc="195312192" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ado muse.png" crc="3830910163" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="widget_aro_left-u2046.png" crc="3833133187" ref="index"/>
-    <file name="widget_aro_left-u2046-r.png" crc="74935909" ref="index"/>
-    <file name="widget_aro_left-u2046-m.png" crc="4127071488" ref="index"/>
-    <file name="widget_aro_right-u2047.png" crc="3767178984" ref="index"/>
-    <file name="widget_aro_right-u2047-r.png" crc="3824665169" ref="index"/>
-    <file name="widget_aro_right-u2047-m.png" crc="130454342" ref="index"/>
+    <file name="service (1)-u2615-fr.png" crc="397885743" ref="index"/>
   </folder>
-  <file name="index.html" crc="95348205" seo="true" mt="1601807728969" redirect="true"/>
+  <file name="index.html" crc="96881227" seo="true" mt="1601810575355" redirect="true"/>
 </manifest>
