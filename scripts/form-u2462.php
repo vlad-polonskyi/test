@@ -27,8 +27,8 @@ $form = array(
 		'unknown_method' => 'Unknown server request method'
 	),
 	'email' => array(
-		'from' => 'info@infopolus.com',
-		'to' => 'info@infopolus.com'
+		'from' => 'info@info-polus.com',
+		'to' => 'info@info-polus.com'
 	),
 	'fields' => array(
 		'custom_U2475' => array(

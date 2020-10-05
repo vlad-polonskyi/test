@@ -1,16 +1,16 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="infopolus.com" resolutions="1x" timestamp="1601895481987">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="info-polus.com" resolutions="1x" timestamp="1601910408742">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_______-a.css" crc="151298416" ref="index"/>
-    <file name="index.css" crc="3985166581" ref="index"/>
+    <file name="index.css" crc="528194038" ref="index"/>
   </folder>
   <folder name="fonts">
-    <file name="fa-solid-900.woff" crc="4161473501"/>
-    <file name="fa-solid-900.eot" crc="365200776"/>
-    <file name="fa-solid-900.svg" crc="3829351478"/>
     <file name="et-line.woff" crc="3758689988"/>
     <file name="et-line.eot" crc="3932358893"/>
     <file name="et-line.svg" crc="479007951"/>
+    <file name="fa-solid-900.woff" crc="4161473501"/>
+    <file name="fa-solid-900.eot" crc="365200776"/>
+    <file name="fa-solid-900.svg" crc="3829351478"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -23,7 +23,7 @@
     <file name="form_check.php" crc="4108222811" ref="index"/>
     <file name="form_throttle.php" crc="503802655" ref="index"/>
     <file name="form_process.php" crc="260214869" ref="index"/>
-    <file name="form-u2462.php" crc="4262331129" ref="index"/>
+    <file name="form-u2462.php" crc="7583811" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="312044820" ref="index"/>
     <file name="require.js" crc="4177726516" ref="index"/>
   </folder>
@@ -42,8 +42,6 @@
     <file name="image-01.jpg" crc="3839136951" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="service (1)-u744-fr.png" crc="4131564801" ref="index"/>
-    <file name="service (1)-u2615-fr.png" crc="397885743" ref="index"/>
     <file name="image-02.jpg" crc="115539859" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -111,6 +109,8 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="illustration-2_poster_.png" crc="4203129036" ref="index"/>
+    <file name="service (1)-u744-fr.png" crc="4131564801" ref="index"/>
+    <file name="service (1)-u2615-fr.png" crc="397885743" ref="index"/>
   </folder>
-  <file name="index.html" crc="29512518" seo="true" mt="1601895419486" redirect="true"/>
+  <file name="index.html" crc="42633981" seo="true" mt="1601910364943" redirect="true"/>
 </manifest>
