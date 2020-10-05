@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="info-polus.com" resolutions="1x" timestamp="1601910408742">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="info-polus.com" resolutions="1x" timestamp="1601911422656">
   <folder name="css">
-    <file name="site_global.css" crc="444006867"/>
+    <file name="site_global.css" crc="3905357799"/>
     <file name="master_______-a.css" crc="151298416" ref="index"/>
-    <file name="index.css" crc="528194038" ref="index"/>
+    <file name="index.css" crc="3805030886" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="et-line.woff" crc="3758689988"/>
@@ -112,5 +112,5 @@
     <file name="service (1)-u744-fr.png" crc="4131564801" ref="index"/>
     <file name="service (1)-u2615-fr.png" crc="397885743" ref="index"/>
   </folder>
-  <file name="index.html" crc="42633981" seo="true" mt="1601910364943" redirect="true"/>
+  <file name="index.html" crc="512207500" seo="true" mt="1601911360302" redirect="true"/>
 </manifest>
