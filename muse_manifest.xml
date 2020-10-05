@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="infopolus.com" resolutions="1x" timestamp="1601893747661">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="infopolus.com" resolutions="1x" timestamp="1601895481987">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_______-a.css" crc="151298416" ref="index"/>
-    <file name="index.css" crc="353177334" ref="index"/>
+    <file name="index.css" crc="3985166581" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="fa-solid-900.woff" crc="4161473501"/>
@@ -112,5 +112,5 @@
     </file>
     <file name="illustration-2_poster_.png" crc="4203129036" ref="index"/>
   </folder>
-  <file name="index.html" crc="400661469" seo="true" mt="1601893699444" redirect="true"/>
+  <file name="index.html" crc="29512518" seo="true" mt="1601895419486" redirect="true"/>
 </manifest>
