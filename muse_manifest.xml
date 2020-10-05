@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="infopolus.com" resolutions="1x" timestamp="1601810657795">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="infopolus.com" resolutions="1x" timestamp="1601893747661">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_______-a.css" crc="151298416" ref="index"/>
-    <file name="index.css" crc="224553788" ref="index"/>
+    <file name="index.css" crc="353177334" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="fa-solid-900.woff" crc="4161473501"/>
@@ -42,11 +42,75 @@
     <file name="image-01.jpg" crc="3839136951" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="service (3)-u344041-fr.jpg" crc="430137367" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="service (1)-u744-fr.png" crc="4131564801" ref="index"/>
     <file name="service (1)-u2615-fr.png" crc="397885743" ref="index"/>
+    <file name="image-02.jpg" crc="115539859" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="technology-line-1.svg" crc="174517181" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="technology-line-1_poster_.png" crc="3901747501" ref="index"/>
+    <file name="technology-line-2.svg" crc="36727297" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="technology-line-2_poster_.png" crc="4266637686" ref="index"/>
+    <file name="line-up-line-2.svg" crc="4125679871" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="line-up-line-2_poster_.png" crc="327615367" ref="index"/>
+    <file name="line-up-line-1.svg" crc="6351144" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="line-up-line-1_poster_.png" crc="4228788332" ref="index"/>
+    <file name="icon-1.svg" crc="14170847" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-1_poster_.png" crc="295213288" ref="index"/>
+    <file name="icon-5.svg" crc="123852378" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-5_poster_.png" crc="4285211392" ref="index"/>
+    <file name="icon-7.svg" crc="104326853" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-7_poster_.png" crc="156637983" ref="index"/>
+    <file name="icon-8.svg" crc="240458745" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-8_poster_.png" crc="3796241078" ref="index"/>
+    <file name="icon-2.svg" crc="379987231" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-2_poster_.png" crc="4119864219" ref="index"/>
+    <file name="icon-3.svg" crc="4209875439" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-3_poster_.png" crc="214707695" ref="index"/>
+    <file name="icon-6.svg" crc="242629439" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-6_poster_.png" crc="3984361124" ref="index"/>
+    <file name="icon-4.svg" crc="195328585" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-4_poster_.png" crc="38547248" ref="index"/>
+    <file name="line-graphic-1.svg" crc="3799584861" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="line-graphic-1_poster_.png" crc="266435411" ref="index"/>
+    <file name="line-graphic-2.svg" crc="4081371449" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="line-graphic-2_poster_.png" crc="4003005753" ref="index"/>
+    <file name="illustration-1.svg" crc="535597940" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="illustration-1_poster_.png" crc="441520513" ref="index"/>
+    <file name="illustration-2.svg" crc="3830324019" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="illustration-2_poster_.png" crc="4203129036" ref="index"/>
   </folder>
-  <file name="index.html" crc="96881227" seo="true" mt="1601810575355" redirect="true"/>
+  <file name="index.html" crc="400661469" seo="true" mt="1601893699444" redirect="true"/>
 </manifest>
