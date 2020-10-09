@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="info-polus.com" resolutions="1x" timestamp="1602265849371">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="info-polus.com" resolutions="1x" timestamp="1602266715558">
   <folder name="css">
     <file name="site_global.css" crc="3940342056"/>
     <file name="master_______-a.css" crc="379356572" ref="index"/>
-    <file name="index.css" crc="3970071843" ref="index"/>
+    <file name="index.css" crc="179232389" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -109,6 +109,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="icon-23_poster_.png" crc="285688288" ref="index"/>
+    <file name="location-u4400-fr.png" crc="358862047" ref="index"/>
   </folder>
-  <file name="index.html" crc="3842367153" seo="true" mt="1602264825809" redirect="true"/>
+  <file name="index.html" crc="3924391018" seo="true" mt="1602266652909" redirect="true"/>
 </manifest>
