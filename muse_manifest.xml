@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="info-polus.com" resolutions="1x" timestamp="1602264855470">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="info-polus.com" resolutions="1x" timestamp="1602265849371">
   <folder name="css">
     <file name="site_global.css" crc="3940342056"/>
     <file name="master_______-a.css" crc="379356572" ref="index"/>
