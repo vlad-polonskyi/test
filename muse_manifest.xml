@@ -1,0 +1,114 @@
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="info-polus.com" resolutions="1x" timestamp="1602264855470">
+  <folder name="css">
+    <file name="site_global.css" crc="3940342056"/>
+    <file name="master_______-a.css" crc="379356572" ref="index"/>
+    <file name="index.css" crc="3970071843" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3939489907" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="128606099" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index"/>
+    <file name="webpro.js" crc="3856315280" ref="index"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3794044693" ref="index"/>
+    <file name="o6obtq0.jpg" crc="3956705220" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="info-polus-logo-eng-2.svg" crc="3913749800" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="info-polus-logo-eng-2_poster_.png" crc="4220620621" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="graphics-1.svg" crc="47907389" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="graphics-1_poster_.png" crc="4009276901" ref="index"/>
+    <file name="line-separator.svg" crc="4071985422" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="line-separator_poster_.png" crc="3800507209" ref="index"/>
+    <file name="icon-9.svg" crc="60475846" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-9_poster_.png" crc="362453974" ref="index"/>
+    <file name="icon-12.svg" crc="4260100722" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-12_poster_.png" crc="251105809" ref="index"/>
+    <file name="icon-13.svg" crc="4138951569" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-13_poster_.png" crc="4075517612" ref="index"/>
+    <file name="icon-10.svg" crc="314701452" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-10_poster_.png" crc="4227773967" ref="index"/>
+    <file name="icon-11.svg" crc="4157452915" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-11_poster_.png" crc="4174548390" ref="index"/>
+    <file name="graphics-2.svg" crc="4171374097" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="graphics-2_poster_.png" crc="3965003065" ref="index"/>
+    <file name="icon-14.svg" crc="4118162619" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-14_poster_.png" crc="259520417" ref="index"/>
+    <file name="icon-15.svg" crc="3837634037" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-15_poster_.png" crc="3875942843" ref="index"/>
+    <file name="icon-16.svg" crc="4060662101" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-16_poster_.png" crc="120149560" ref="index"/>
+    <file name="military.jpg" crc="281098204" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="graphics-3.svg" crc="4057100773" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="graphics-3_poster_.png" crc="445002745" ref="index"/>
+    <file name="icon-17.svg" crc="451611976" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-17_poster_.png" crc="3760572194" ref="index"/>
+    <file name="icon-18.svg" crc="391021435" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-18_poster_.png" crc="3782290025" ref="index"/>
+    <file name="icon-19.svg" crc="3973089538" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-19_poster_.png" crc="397952269" ref="index"/>
+    <file name="icon-20.svg" crc="4278464551" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-20_poster_.png" crc="3778378381" ref="index"/>
+    <file name="icon-21.svg" crc="369602124" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-21_poster_.png" crc="261984268" ref="index"/>
+    <file name="icon-22.svg" crc="4003546479" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-22_poster_.png" crc="71228829" ref="index"/>
+    <file name="icon-23.svg" crc="346632161" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-23_poster_.png" crc="285688288" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3842367153" seo="true" mt="1602264825809" redirect="true"/>
+</manifest>
