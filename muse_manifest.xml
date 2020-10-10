@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="info-polus.com" resolutions="1x" timestamp="1602266715558">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="info-polus.com" resolutions="1x" timestamp="1602322122835">
   <folder name="css">
-    <file name="site_global.css" crc="3940342056"/>
-    <file name="master_______-a.css" crc="379356572" ref="index"/>
-    <file name="index.css" crc="179232389" ref="index"/>
+    <file name="site_global.css" crc="4111543758"/>
+    <file name="master_______-a.css" crc="3903025074" ref="index"/>
+    <file name="index.css" crc="321669910" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -111,5 +111,5 @@
     <file name="icon-23_poster_.png" crc="285688288" ref="index"/>
     <file name="location-u4400-fr.png" crc="358862047" ref="index"/>
   </folder>
-  <file name="index.html" crc="3924391018" seo="true" mt="1602266652909" redirect="true"/>
+  <file name="index.html" crc="3837039234" seo="true" mt="1602321268272" redirect="true"/>
 </manifest>
